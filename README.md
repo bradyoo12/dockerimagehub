@@ -17,4 +17,4 @@
 - Run each cell by hitting 'Shift + Enter'
 
 # Reference
-- MLOPS Tutorial- Automating Workflow Of CI/CD for Dockerized Flask App Using Github Action [https://www.youtube.com/watch?v=qxpKCBV60U4](https://www.youtube.com/watch?v=9oALxmc5yEw)ha
+- MLOPS Tutorial- Automating Workflow Of CI/CD for Dockerized Flask App Using Github Action [https://www.youtube.com/watch?v=qxpKCBV60U4](https://www.youtube.com/watch?v=9oALxmc5yEw)
