@@ -4,6 +4,7 @@
 - Docker
 - Unit test using pytest
 - Flask
+- Conda
 
 # What I learned
 - Use of pandas library to handle data sets such as isna(), sum(), loc[], groupby(), describe(), merge()
@@ -16,4 +17,4 @@
 - Run each cell by hitting 'Shift + Enter'
 
 # Reference
-- How to Do Data Cleaning (step-by-step tutorial on real-life dataset) https://www.youtube.com/watch?v=qxpKCBV60U4
+- MLOPS Tutorial- Automating Workflow Of CI/CD for Dockerized Flask App Using Github Action [https://www.youtube.com/watch?v=qxpKCBV60U4](https://www.youtube.com/watch?v=9oALxmc5yEw)
