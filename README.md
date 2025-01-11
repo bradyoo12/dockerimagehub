@@ -2,7 +2,7 @@
 - Git
 - Github
 - Docker
-- pytest
+- Unit test using pytest
 - Flask
 
 # What I learned
