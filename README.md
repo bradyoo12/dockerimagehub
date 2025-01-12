@@ -4,7 +4,7 @@
 - Docker
 - Unit test using pytest
 - Flask
-- Conda
+- Yaml
 
 # What I learned
 - How to automate workflow of CI/CD for Dockerized app
